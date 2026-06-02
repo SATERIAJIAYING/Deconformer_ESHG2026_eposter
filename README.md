@@ -1,4 +1,4 @@
-# Brief Report: Deconformer – Efficient Cell-Type Composition Profiling of cfRNA
+# Deconformer: efficient cell-type composition profiling of cfRNA across diverse cell types
 
 ![BA](figure/ESHG2026_Banner_1280x256px.png)
 

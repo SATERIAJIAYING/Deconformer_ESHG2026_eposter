@@ -1,5 +1,12 @@
 # Brief Report: Deconformer – Efficient Cell-Type Composition Profiling of cfRNA
 
+![BA](figure/ESHG2026_Banner_1280x256px.png)
+
+## Graphical abstract
+
+![GA](figure/GRAPHICAL_ABSTRACT_00.png)
+
+
 ## Background
 - cfRNA holds significant potential for non-invasive liquid biopsy, but accurately resolving its diverse cellular origins remains computationally challenging.
 - Traditional deconvolution tools face prohibitive runtime and memory constraints when profiling >30 cell types, forcing researchers to merge or downsample cell types.
